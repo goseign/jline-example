@@ -1,11 +1,13 @@
-# cli-loop
+# jline-example
 
-[![Build Status](https://travis-ci.org/mslinn/cli-loop.svg?branch=master)](https://travis-ci.org/mslinn/cli-loop)
-[![GitHub version](https://badge.fury.io/gh/mslinn%2Fcli-loop.svg)](https://badge.fury.io/gh/mslinn%2Fcli-loop)
+[![Build Status](https://travis-ci.org/mslinn/jline-example.svg?branch=master)](https://travis-ci.org/mslinn/jline-example)
+[![GitHub version](https://badge.fury.io/gh/mslinn%2Fjline-example.svg)](https://badge.fury.io/gh/mslinn%2Fjline-example)
+
+Scala and Java examples of [jline3](https://github.com/jline/jline3).
 
 ## Running the Program
 The `bin/run` Bash script assembles this project into a fat jar and runs it.
-Sample usage, which runs the `Hello` entry point in `src/main/scala/Main.java`:
+Sample usage, which runs the `Main` entry point in `src/main/scala/Main.java`:
 
 ```
 $ bin/run
